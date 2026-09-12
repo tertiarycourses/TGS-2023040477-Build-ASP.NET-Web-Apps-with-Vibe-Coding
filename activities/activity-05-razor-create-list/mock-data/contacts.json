@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Aisha Rahman",
+    "email": "aisha@example.test",
+    "stage": "Lead"
+  },
+  {
+    "id": 2,
+    "name": "Benjamin Tan",
+    "email": "benjamin@example.test",
+    "stage": "Qualified"
+  },
+  {
+    "id": 3,
+    "name": "Chen Mei",
+    "email": "mei@example.test",
+    "stage": "Customer"
+  }
+]

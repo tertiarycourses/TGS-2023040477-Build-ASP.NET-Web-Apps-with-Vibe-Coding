@@ -1,0 +1,4 @@
+@page
+@model LocalCRM.Pages.Contacts.CreateModel
+@{ ViewData["Title"]="Add contact"; }
+<h1>Add contact</h1><div asp-validation-summary="ModelOnly" class="error" tabindex="-1"></div><form method="post"><label asp-for="Input.Name"></label><input asp-for="Input.Name"><span asp-validation-for="Input.Name" class="error"></span><label asp-for="Input.Email"></label><input asp-for="Input.Email"><span asp-validation-for="Input.Email" class="error"></span><label asp-for="Input.Stage"></label><select asp-for="Input.Stage"><option>Lead</option><option>Qualified</option><option>Customer</option></select><button type="submit">Add contact</button></form>

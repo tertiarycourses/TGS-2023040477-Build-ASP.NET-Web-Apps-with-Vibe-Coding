@@ -1,0 +1,4 @@
+@page
+@model LocalCRM.Pages.Contacts.IndexModel
+@{ ViewData["Title"]="Contacts"; }
+<h1>CRM contacts</h1><p><a asp-page="./Create">Add a contact</a></p><table><caption>Training contacts</caption><thead><tr><th>ID</th><th>Name</th><th>Email</th><th>Stage</th></tr></thead><tbody>@foreach(var c in Model.Items){<tr><td>@c.Id</td><td>@c.Name</td><td>@c.Email</td><td>@c.Stage</td></tr>}</tbody></table>
