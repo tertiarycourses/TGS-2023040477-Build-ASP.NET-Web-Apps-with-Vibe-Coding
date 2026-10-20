@@ -1,12 +1,18 @@
-# TGS-2023040477-Build-ASP.NET-Web-Apps-with-Vibe-Coding
-
-Build ASP.NET Web Apps with Vibe Coding
+# Build ASP.NET Web Apps with Vibe Coding
 
 [![WSQ Course](https://img.shields.io/badge/WSQ-TGS--2023040477-0B5CAB)](https://www.tertiarycourses.com.sg/wsq-build-asp-net-web-apps-with-vibe-coding.html)
 [![ASP.NET Core 10](https://img.shields.io/badge/ASP.NET_Core-10.0-512BD4?logo=dotnet)](https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-10.0)
 [![SQLite](https://img.shields.io/badge/SQLite-EF_Core-003B57?logo=sqlite)](https://learn.microsoft.com/en-us/ef/core/providers/sqlite/)
 
 Courseware and runnable learner Activities for Tertiary Infotech Academy's two-day WSQ course. Learners progressively build **LocalCRM**, a local ASP.NET Core application that combines Razor Pages, a controller API, validation, accessibility, EF Core, SQLite, OpenAPI, integration tests, health checks, and release documentation.
+
+| Course detail | Information |
+|---|---|
+| Course code | `TGS-2023040477` |
+| Programme | WSQ |
+| Duration | 2 days · 16 training hours · 2 assessment hours |
+| Registration | [View course details and register](https://www.tertiarycourses.com.sg/wsq-build-asp-net-web-apps-with-vibe-coding.html) |
+| Funding | Up to 70% course-fee funding for eligible learners or employers. Eligibility and terms apply; funding is currently listed as valid through 3 December 2027. |
 
 ## Course overview
 
